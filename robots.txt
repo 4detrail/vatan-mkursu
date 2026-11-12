@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+ 
+Sitemap: https://vatansurucukursum.vercel.app/sitemap.xml
